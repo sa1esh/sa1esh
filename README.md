@@ -1,12 +1,17 @@
-### Hi there 👋, Salesh
+### Hi there 👋, my name is Salesh
 #### Security Consultant
-![Security Consultant](https://www.credots.com/wp-content/uploads/2016/11/wbanner6.jpg)
+![Security Consultant](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Highly committed security consultant with over 10 years of experience in the IT industry. Proven ability to assess and mitigate risk, develop security policies and procedures, and consult on information security controls including client's IT controls and processes to identify improvements areas/weaknesses in the IT environment, reducing IT risks through more systematic, preventative and detective controls; and increase visibility of IT issues with management. Driven by a passion for protecting people, data, and assets.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Server Management / Networking / Threat Hunting / Security Auditing / Log Analysis
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
