@@ -7,6 +7,8 @@ Highly committed security consultant with over 10 years of experience in the IT 
 Skills: 
 Server Management / Networking / Threat Hunting / Security Auditing / Log Analysis
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa1esh)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on this page. 
 
 
