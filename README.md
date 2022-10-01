@@ -10,7 +10,7 @@ Highly committed security consultant with over 10 years of experience in the IT 
 * Security Auditing
 * Log Analysis
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa1esh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa1esh)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salesh-chand-88978966//)  
